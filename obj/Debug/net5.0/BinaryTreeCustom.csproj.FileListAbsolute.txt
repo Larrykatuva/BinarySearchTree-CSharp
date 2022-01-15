@@ -1,0 +1,16 @@
+C:\Users\larry\source\repos\BinaryTreeCustom\BinaryTreeCustom\bin\Debug\net5.0\BinaryTreeCustom.exe
+C:\Users\larry\source\repos\BinaryTreeCustom\BinaryTreeCustom\bin\Debug\net5.0\BinaryTreeCustom.deps.json
+C:\Users\larry\source\repos\BinaryTreeCustom\BinaryTreeCustom\bin\Debug\net5.0\BinaryTreeCustom.runtimeconfig.json
+C:\Users\larry\source\repos\BinaryTreeCustom\BinaryTreeCustom\bin\Debug\net5.0\BinaryTreeCustom.runtimeconfig.dev.json
+C:\Users\larry\source\repos\BinaryTreeCustom\BinaryTreeCustom\bin\Debug\net5.0\BinaryTreeCustom.dll
+C:\Users\larry\source\repos\BinaryTreeCustom\BinaryTreeCustom\bin\Debug\net5.0\ref\BinaryTreeCustom.dll
+C:\Users\larry\source\repos\BinaryTreeCustom\BinaryTreeCustom\bin\Debug\net5.0\BinaryTreeCustom.pdb
+C:\Users\larry\source\repos\BinaryTreeCustom\BinaryTreeCustom\obj\Debug\net5.0\BinaryTreeCustom.csproj.AssemblyReference.cache
+C:\Users\larry\source\repos\BinaryTreeCustom\BinaryTreeCustom\obj\Debug\net5.0\BinaryTreeCustom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\larry\source\repos\BinaryTreeCustom\BinaryTreeCustom\obj\Debug\net5.0\BinaryTreeCustom.AssemblyInfoInputs.cache
+C:\Users\larry\source\repos\BinaryTreeCustom\BinaryTreeCustom\obj\Debug\net5.0\BinaryTreeCustom.AssemblyInfo.cs
+C:\Users\larry\source\repos\BinaryTreeCustom\BinaryTreeCustom\obj\Debug\net5.0\BinaryTreeCustom.csproj.CoreCompileInputs.cache
+C:\Users\larry\source\repos\BinaryTreeCustom\BinaryTreeCustom\obj\Debug\net5.0\BinaryTreeCustom.dll
+C:\Users\larry\source\repos\BinaryTreeCustom\BinaryTreeCustom\obj\Debug\net5.0\ref\BinaryTreeCustom.dll
+C:\Users\larry\source\repos\BinaryTreeCustom\BinaryTreeCustom\obj\Debug\net5.0\BinaryTreeCustom.pdb
+C:\Users\larry\source\repos\BinaryTreeCustom\BinaryTreeCustom\obj\Debug\net5.0\BinaryTreeCustom.genruntimeconfig.cache
